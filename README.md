@@ -1,3 +1,8 @@
-# peak_packer
+## aplikasi peak_packer
 
-A new Flutter project.
+aplikasi penyewaan barang peralatan pendakian, dengan microservice. 
+
+- backend -> php (laravel)
+- client app -> dart (flutter)
+
+  <hr>
